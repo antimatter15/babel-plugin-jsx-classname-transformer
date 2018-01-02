@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-jsx-classname-transformer",
+  "version": "1.0.0",
+  "description": "Babel7 plugin to allow use of \"class\" instead of \"className\" in JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antimatter15/babel-plugin-jsx-classname-transformer.git"
+  },
+  "keywords": [
+    "babel",
+    "classname",
+    "jsx",
+    "react"
+  ],
+  "author": "Kevin Kwok <antimatter15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antimatter15/babel-plugin-jsx-classname-transformer/issues"
+  },
+  "homepage": "https://github.com/antimatter15/babel-plugin-jsx-classname-transformer#readme"
+}
